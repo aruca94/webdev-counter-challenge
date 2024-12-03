@@ -66,4 +66,12 @@ body {
 }
 
 @media (width >= 500px) {
+    .app-card {
+        flex-direction: row;
+    }
+
+    .message {
+        width: 50%;
+    }
+
 }
